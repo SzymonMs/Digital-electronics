@@ -1,5 +1,3 @@
-# Digital-electronics
-
 # List of projects:
  
  1.7segment_display
