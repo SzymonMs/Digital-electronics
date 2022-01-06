@@ -1,4 +1,4 @@
-<p align="left"> <a href="http://www.cburch.com/logisim/" target="_blank"> <img src="https://user-images.githubusercontent.com/84814415/148468282-ac9e33f7-4896-45b2-b4cf-d5cec8bedb8a.png" alt="arduino" width="100" height="100"/> </a>
+<p align="left"> <a href="http://www.cburch.com/logisim/" target="_blank"> <img src="https://user-images.githubusercontent.com/84814415/148468282-ac9e33f7-4896-45b2-b4cf-d5cec8bedb8a.png" alt="arduino" width="80" height="80"/> </a>
 
 # List of projects:
  
