@@ -17,5 +17,7 @@
  7.MUX_and_DEMUX
   
  8.NBC_to_1with8
+ 
+ 9.Python Circuits Simulator
 
 
